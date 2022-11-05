@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinSCPTest": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
